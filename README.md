@@ -41,4 +41,3 @@ elseif game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("
 	hum.HipHeight = 0.56
 
 end
-]])
